@@ -1,2 +1,12 @@
-﻿Console.WriteLine("Hello, Geo !!");
-Console.WriteLine("This is just for practice!!");
+﻿void myFirstMethod()
+{
+    // Does Something 
+}
+void mySecondMethod()
+{
+    // Does Something 
+}
+void myThirdMethod()
+{
+    // Does Something 
+}
